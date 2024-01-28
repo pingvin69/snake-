@@ -112,7 +112,7 @@ def settings():
                     clor_1 = Button(buttons, 'y_color.png', 325, 65)
                     clor_2 = Button(buttons, 'g_color_2.png', 325, 130)
 
-                    b = (255, 255, 255)
+                    b = (57, 150, 39)
                     c = 'head.png'
                 if clor_1.is_focused(event.pos):
                     clor_1 = Button(buttons, 'y_color_2.png', 325, 65)
